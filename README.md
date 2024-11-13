@@ -1,10 +1,10 @@
-**Welcome to NPC Tracker**
+### Welcome to NPC Tracker ###
 
 This project is meant for me to learn how to use Node.js on the backend, and React on the frontend to create a tool to both generate and store NPCs for a Shadowrun inspired world.
 
 For now, this project is locally built and hosted, and has no publically live page, though that is on the roadmap. Mostly this page serves to show potential employers what my coding style looks like.
 
-**Dev Roadmap:**
+## Dev Roadmap: ##
 - get repo onto github, get code reviews done
 - figure out some sort of cache (redis?) for local storage to reduce db chatter on random attribute generation
 - CRUD factions to world
@@ -20,11 +20,11 @@ For now, this project is locally built and hosted, and has no publically live pa
 - World Creation Limit = 2 for free account FE & BE limitations
 
 
-**Known Bugs:**
+## Known Bugs: ##
 - deleting the bottom/second world in the world select removes the wrong world from the list (refresh fixes)
 
 
-**todo:**
+## todo: ##
 investigate different tools:
 - Formik
 - Yup
@@ -33,11 +33,13 @@ investigate different tools:
 - ant.design for UI or MUI (material Ui)
 
 
-**local server troubleshooting:**
+## local server troubleshooting: ##
 if you run into issues (closing the terminal without stopping the server) run this:
 
-`netstat -ano |findstr :3000`
-`netstat -ano |findstr :3001`
+```
+netstat -ano |findstr :3000
+netstat -ano |findstr :3001
+```
 
 then this
 
