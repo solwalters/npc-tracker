@@ -1,8 +1,11 @@
-### Welcome to NPC Tracker ###
+# Welcome to NPC Tracker #
 
 This project is meant for me to learn how to use Node.js on the backend, and React on the frontend to create a tool to both generate and store NPCs for a Shadowrun inspired world.
 
 For now, this project is locally built and hosted, and has no publically live page, though that is on the roadmap. Mostly this page serves to show potential employers what my coding style looks like.
+
+## Deployment: ##
+For now, deployment is not supported. This is coming.
 
 ## Dev Roadmap: ##
 - get repo onto github, get code reviews done
