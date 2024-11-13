@@ -8,7 +8,7 @@ For now, this project is locally built and hosted, and has no publically live pa
 For now, deployment is not supported. This is coming.
 
 ## Dev Roadmap: ##
-- get repo onto github, get code reviews done
+- ~~get repo onto github,~~ get code reviews done
 - figure out some sort of cache (redis?) for local storage to reduce db chatter on random attribute generation
 - CRUD factions to world
 - CRUD locations to world
