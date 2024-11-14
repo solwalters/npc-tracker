@@ -3,14 +3,22 @@
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
-    "scripts": {
+    "scripts":
+    {
         "start": "nodemon server/index.ts",
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "scripts":
+        {
+            "postinstall": "cd ./client && npm install && npm run build",
+            "start": "node index.ts"
+        }
     },
-    "keywords": [],
+    "keywords":
+    [],
     "author": "",
     "license": "ISC",
-    "dependencies": {
+    "dependencies":
+    {
         "@types/express": "^5.0.0",
         "@types/jest": "^29.5.14",
         "@types/react": "^18.3.12",
@@ -28,7 +36,8 @@
         "ts-node-dev": "^2.0.0"
     },
     "proxy": "http://localhost:3001",
-    "devDependencies": {
+    "devDependencies":
+    {
         "@types/node": "^22.8.2",
         "ts-node": "^10.9.2",
         "typescript": "^5.6.3"
