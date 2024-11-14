@@ -13,12 +13,11 @@
         "noImplicitAny": false
     },
     "compileOnSave": true,
-    "include":
-    [
-        "src/**/*"
+    // TS complains if it doesn't find ressources under the include folder
+    "include": [
+        "server/src/**/*"
     ],
-    "exclude":
-    [
+    "exclude": [
         "node_modules",
         "lib"
     ]
