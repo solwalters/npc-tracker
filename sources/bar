@@ -1,0 +1,1613 @@
+{
+    tags: ["bar"],
+    value: "Ace of Clubs",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Admiral's Arms",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Admiral Benbow Inn",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Aidensfield Arms",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Aigburth Arms",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Alibi Bar",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Alibi Room",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Anchor",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Angler's Rest",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Archer Hotel",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Archie Bunker's Shack",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Armada Room",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Back Lane Bar",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Bada Bing",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Ballroom",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Bamboo Lounge",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Bang Bang Bar",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Space Elevator",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Bee and Barb",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Beehive",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Bigger Jigger",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "D20",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Baldur's Gate",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Sigil",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Planescape",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Shadesmar",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Black Eyes Bar",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Undertale",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Black Drone",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Black Lion",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Black Swan",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Bloated Float Inn",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Blue Boar Inn",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Blue Oyster Bar",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Blue Parrot",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Who the Fred is Fuck?",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Boar's Head",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Boar's Nest",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Boatman",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Bob's Country Bunker",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Bodarks Bus Stop",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Boobies",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Boom Boom Room",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Border Watch Inn",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Brady Pub",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Braidwood Inn",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Nano Lantern",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Brick",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Broken Drum",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Mended Drum",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Broken Stool",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Bronze",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Broome's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Dead Corporates",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Bull",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Lowfyr's Low",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Bunnys",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Burger Cat",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Butchers Arms",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Café René",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Callahan's Place",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Candlehearth Hall",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Cap & Bell",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Cat & Fiddle",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Central Perk",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Charlie's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Chatsubo",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Cheers",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Chez Quis",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "China Coast",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Clansman",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Club 13",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Club Obi Wan",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Club Pluto",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Club Sugar Ray",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Cockatoo Inn",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Cocktails and Dreams",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Cohan's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Colonial Taphouse",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Cooper's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Copa",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Copacabana",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Corrado Italian Bistro",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Count's Arms",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Crab Shack",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Crab Shed",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Crazy Cock",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Cross Hands",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Crow & Crown",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Crown",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Crow's Nest",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Dagmar",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Dal Riata",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "De Rossi's Wine Bar",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Dead Man's Drink",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Deville",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Dexter Lake Club",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Dino's Bar and Grill",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Dirty Sanchez",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Dog and Handgun",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Dog And Duck",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Dog and Gun",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Dog in the Pond",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Dorsia",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Double Deuce",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Downy Pelican",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Drunken Clam",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Dugout Inn",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Duke Of Seattle",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Duke's Pub",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Earl Of Osbourne",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Earhart's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Officer's club",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Babylon 5",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Red Sector",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Eden Hall",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "El Rancho",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Electric Psychedelic Pussycat",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Elephant",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "London 1599",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Elfsong Tavern",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Eolian",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Kingkiller",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Essence",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Famous",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Fangtasia",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Feathers",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Feed Bag",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Fiesty Goat Pub",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The First Post",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Fitzgerald's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Five Claws Lodge",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "BTL is for losers",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Flanahan's Hole",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Flowers of Gold",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Flying Swan",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Upvote",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Foley's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Fool and Bladder",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Fortune",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Free the Paedos",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Friendsy's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Garrison",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Gaston's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Gateway Inn",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Gentleman Loser",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Glenister's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Gold Room",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Good Companions",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Grapes",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Grasshopper",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Greely's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Street Sam in Hobbiton",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Green Man",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Griffin",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Grilby's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Grind & Jolt Cafe",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Gus's Galaxy Grill",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Hand & Rigger",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Hand of Glory",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Harry Hope's Saloon",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Hip Joint",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Meta",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Hole In The Wall",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Drone & Groom",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Hound Pits Pub",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Ink & Paint Club",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Intersection",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Iron Drone",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Ivy Bush",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Jack Rabbit Slim's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Decker's Delights",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Jenny's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Jimmy’s Bar",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Jockey",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Joe's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "John McRory's Place",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Kadie's Club Pecos",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Kavanagh's Irish Pub",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Kebab & Calculator",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Kelcy's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Kennedy's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Berghain",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The King's Head",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Kit Kat Klub",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Korova Milk Bar",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Lamb & Flag",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Last Chance",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Last Resort",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Leaky Cauldron",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Learned Goat",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Lizard's Head",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Lobo",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Lock",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Louie's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Low Point",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Lucky Lockup",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Lusty Leopard",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "LUX",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "MacLaren's Pub",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Mad Dog Saloon",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Maidenhead",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Malt Shovel",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Kaneda",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Zero Dawn",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Maxwell's Nightclub",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "McAnally's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Mickey's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "McAleer’s",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "NYPD Blue",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "McGinty's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Meibeyer's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Merlotte's Bar and Grill",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Mermaid",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Mickey Finn's Palace",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Midnight Bell",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Midnight Star",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Milk",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Milliway's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Mr. Pubbs",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Moe's Tavern",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Mohune Arms",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Second Impact",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "First Crash",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Matrix Crash",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Mos Eisley",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Mucky Duck",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Muggy's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Mulberry Street Bar",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Munden's Bar",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Mayhew",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Nag's Head",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "New Found Out",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "New York Bar",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Night Spot",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Noah's Bar",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Dark Souls",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Oblivion Bar",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Old Haunt",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Old Pink Dog",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "10/10 Would Drink Again",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Orange Tree",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "O'Malley's Bar",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "P3",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Paddy's Pub",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Palace Saloon",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Peach Pit",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Pedro McKinnon",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Pie Hole",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Pig and Whistle",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Place",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Playaz Club",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Plot and Plaster",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Plumbers Arms",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Poison",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Pool Hall",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Pleasure Island",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Poor Richard's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Porky's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Prancing Pony",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Purple Pit",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Puzzles",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Quark's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Queen Victoria",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Queen's Haemorrhoids",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Rabennest",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Ragged Flagon",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Railway Arms",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Rat in the Pot",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Raven",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Red Boot Pub",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Red Pony",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Regal Beagle",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Rick's Café Américain",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Rolliver's Inn",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Romanoff's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Rose & Crown",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Rose & Thorn",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Rosie's Bar",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Roulette",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Metropolis",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Rovers Return Inn",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Rowlf's Tavern",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Rusty Anchor",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "St. Elmo's Bar",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Salieri's Bar",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Salty Sailor Tavern",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Salty Spitoon",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Samoan Joe's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Sandbox",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "SaxonwoldShebeen",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Seagrass",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Shakespeare",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Shooters",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Silent Woman",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Silver-Blood Inn",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Silver Dollar Saloon",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Siren",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Six Jolly",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Skinners Arms",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Slaughtered Lamb",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Slaughtered Prince",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Sleeping Giant Inn",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Sleeping Mare Inn",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Smack",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Snakehole Lounge",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Snug",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Sole Regret",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Spotted Dog",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Stan Mikita's Donuts",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Starlight Roof",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Steinway Beer Garden",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Stonefire Tavern",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Stone's Throw",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Scorched Bone",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Setting Sun",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Strokes",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "SU Bar",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Swan",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Swan & Paedo",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Tabard",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Table Salt",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Tall Ship",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Talon",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Tavern of Time",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Ten Forward",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Gates of Hell",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Old Familiar",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Old Phoenix",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Third Rail",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Thorax Bar",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Three Sisters' Inn",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Titty Twister",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Titty Typhoon",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Torchy's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Trees Lounge",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Tropicana",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Trusty Servant",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Two-Headed Dog",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Underworld Tavern",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Vardi's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Venusville Bar",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Verdant",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Very Cool Secret Bar",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Vesuvio",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Vigilante",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Volpe's",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Vulgar Unicorn",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Underworld",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Wakeley Arms",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Three-headed Monkey",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Wandin Valley RSL",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Weatherfield Arms",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Welsh's Bar",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "West Weald Inn",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Whippet Inn",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The White Hart",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The White Swan",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Winchester Club",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Windpeak Inn",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Winking Skeever",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Woolpack",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Tresor",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Berghain",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The World's End",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Wurstbraterei",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Y Deri Arms",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "The Yellow Flag",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Better Than Liquor",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "Social Media",
+    type: "name"
+}, {
+    tags: ["bar"],
+    value: "abode",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "bistro",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "inn",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "lounge",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "pub",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "saloon",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "tavern",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "alehouse",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "barroom",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "canteen",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "hangout",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "abyss",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "heaven",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "penthouse",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "shack",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "pit",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "lounge",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "club",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "basement",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "hall",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "sitting room",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "nest",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "hive",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "rathskeller",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "tap",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "taproom",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "beer garden",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "cocktail lounge",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "drinkery",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "public house",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "watering hole",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "exit",
+    type: "type"
+}, {
+    tags: ["bar"],
+    value: "end",
+    type: "type"
+}, 

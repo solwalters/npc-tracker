@@ -1,0 +1,285 @@
+{
+    tags: ["city"],
+    value: "Outpost",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Expedition",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Block",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Habitat",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Arcologies",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Park",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Creek",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Hills",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Vista",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Flats",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "District",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Residential Inc.",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Corp.",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Inc.",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Ltd.",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "West",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "South",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "North",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Center",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Bazaar",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Expanse",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Residential",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Industrial",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Factories",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Base",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Headquarters",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "City",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Town",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Village",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Sprawl",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Harbor",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Suburbs",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Slums",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Square",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Residential Ltd.",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Spaces Inc.",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Living Corp.",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "Offices",
+    type: "suffix"
+}, {
+    tags: ["city"],
+    value: "elderly demographic",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "mostly-meta demographic",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "run-down",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "thriving",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "blossoming economy",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "cultural center",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "police-state",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: '"Magocracy"',
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "law-abiding citizens",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "disfunctional matrix grid",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "good public transportation",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "spaceport nearby",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "near airport approach path",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "mostly highrises",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "run-down buildings",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "rioting in the streets",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "constant sound of gunfire",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "excessive neon lights",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "helicopters circling at night",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "drone-saturated sky",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "neon-lit streets",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "dark streets",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "corporate territory",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "magic disturbances",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "toxic environment",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "high radiation",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "mostly elven demographic",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "former war zone",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "AR bombardment",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "Shadowed by skyscrapers",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "toxic air",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "corporate property",
+    type: "attribute"
+}, {
+    tags: ["city"],
+    value: "near highway crossing",
+    type: "attribute"
+},
