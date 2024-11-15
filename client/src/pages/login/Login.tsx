@@ -14,6 +14,7 @@ const Login: FC = () => {
   const [success, setSuccess] = useState("");
   const navigate = useNavigate();
 
+  // yup is great 
   const validationSchema = Yup.object().shape({
     email: Yup.string().required("Email is required"),
     password: Yup.string().required("Password is required"),
@@ -28,6 +29,7 @@ const Login: FC = () => {
     console.log(submit)
     setSuccess(submit.message);
     setSubmitting(false);
+    // what's that navigate(0)?
     navigate('/');
     navigate(0);
   };

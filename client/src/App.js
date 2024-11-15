@@ -34,6 +34,7 @@ function App() {
           <Route path="/" element={<Summary />} />
           <Route path="/register" element={<Register />} />
           <Route path="/login" element={<Login />} />
+          // I think you need to use a Navigate here instead of undefined for the not logged in case
           <Route path="/authorized" element={isLoggedIn && <Test />} />
           <Route path="/worlds" element={isLoggedIn && <WorldSelect />} />
           <Route path="/worlds/:worldId" element={isLoggedIn && <WorldView />} />

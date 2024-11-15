@@ -18,6 +18,7 @@ const Summary = () => {
   const [personalityQuirks, setPersonalityQuirks] = React.useState<string[]>([]);
 
   React.useEffect(() => {
+    // odd casing
     RollAllValues()
   }, []);
 
@@ -56,6 +57,7 @@ const Summary = () => {
     return result.join(""); // Combine into a final string
   }
 
+  // always try to use arrow functions
   async function ReplaceTag(placeholder: string, currentGender: string){
     let replacement = '';
     switch (placeholder) {
@@ -85,12 +87,13 @@ const Summary = () => {
 
   function RandomGender() {
     const genders = ['He', 'He', 'He', 'He', 'She', 'She', 'She', 'She']
+    // consider using a toolkit like lodash (here sample would fit)
     return genders[Math.floor(Math.random() * genders.length)];
   }
 
   async function RandomIdentifyingFeatures() {
     const RNG = Math.floor((Math.random() * 3) + 1);
-    const idfArray = []
+    const idfArray = [] 
     for (let i = 0; i < RNG; i++) {
       const feature = await apiRequest('randomizer/identifyingFeature');
       const parsedFeature = await ParseTemplate(feature.value, gender)
@@ -174,6 +177,7 @@ const Summary = () => {
     }
   }
 
+  // All of these below are a comp to be extracted, same structure, different children
   const IdentifyingFeatures = () => {
     return (
       <>

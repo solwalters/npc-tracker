@@ -9,18 +9,17 @@ interface Props{
   rerollFunction: () => void
 }
 
+// Naming is odd, it sounds like a value, not like a component.
 const RandomizedValue = ({name, value, rerollFunction}: Props) => {
   const handleReroll = () => {
     rerollFunction();
   };
 
   return (
-    <>
       <div style={{ textAlign: 'center' }}>
         <Chip sx={{ fontSize: '0.75em', padding: '8px 16px', top: '12px'}} onClick={handleReroll} label={value} variant="outlined" color="success" icon={<CasinoIcon />} />
         <span style={{ display: 'block', fontSize: '0.4em', marginTop: '12px' }}>{name}</span>
       </div>
-    </>
   );
 };
 

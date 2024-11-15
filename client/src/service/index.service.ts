@@ -20,6 +20,8 @@ const headers = {
 }
 
 // register the user service
+// you can't really use Cookies as a SOT, everyone denies them nowadays
+// you need to handle a state at the app level.
 export const registerUser = async (user: User) => {
   try {
     const response = await axios.post(`${apiUrl}user/register`, user);

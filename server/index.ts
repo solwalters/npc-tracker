@@ -29,6 +29,7 @@ app.get('/random_race/', async (req, res) => {
     const query = 'select * from races;';
     const { rows } = await pool.query(query);
     var weightedList : string[] = []
+    // We don't use `for` anymore in JS, we use the functional methods instead (map, filter, reduce, etc)
     for (var i = 0; i < rows.length; i++){
       for (var j = 0; j < rows[i].default_population * 10; j++){
         weightedList.push(rows[i].name);
