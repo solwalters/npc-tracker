@@ -4,6 +4,8 @@ const cors = require('cors');
 const { Pool } = require('pg');
 const PORT = process.env.PORT || 3005;
 const app = express();
+app.use(cors());
+
 import {userRoutes} from "./src/routes/user.route";
 import {worldRoutes} from "./src/routes/world.route";
 import {randomizerRoutes} from "./src/routes/randomizer.route";
@@ -17,7 +19,6 @@ const pool = new Pool({
   port: process.env.DB_PORT,
 });
 
-app.use(cors());
 app.use(express.json());
 
 app.use("/user", userRoutes);
