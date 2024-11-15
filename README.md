@@ -2,10 +2,13 @@
 
 This project is meant for me to learn how to use Node.js on the backend, and React on the frontend to create a tool to both generate and store NPCs for a Shadowrun inspired world.
 
-For now, this project is locally built and hosted, and has no publically live page, though that is on the roadmap. Mostly this page serves to show potential employers what my coding style looks like.
+See the tool on https://npc-tracker-five.vercel.app/
 
 ## Deployment: ##
-For now, deployment is not supported. This is coming.
+Deployment is managed by vercel for now, just to get something free and available. Manual updates to the database are still required until I figure out automatic db updates.
+
+For local db dump, run the following:
+`.\pg_dump -U postgres -d npc-tracker -f D:\dev\npc-tracker\dump.sql -C --inserts`
 
 ## Dev Roadmap: ##
 - ~~get repo onto github,~~ get code reviews done
@@ -16,7 +19,7 @@ For now, deployment is not supported. This is coming.
 - allow people to submit suggestions for data
   - form > db > admin page?
 - automated deployments
-- deploy/hosting for free/cheap
+- ~~deploy/hosting for free/cheap~~
 - Update World Name (on world screen)
 - full form randomizer w/ clickable rerolls & empty forms to add previously created NPCs (does/can this link into suggestions for data?)
 - Set up hooks for account type (free/paid) - dummy for now
