@@ -8,7 +8,6 @@ import {userRoutes} from "./src/routes/user.route";
 import {worldRoutes} from "./src/routes/world.route";
 import {randomizerRoutes} from "./src/routes/randomizer.route";
 const auth = require("./src/auth");
-const path = require('path');
 
 const pool = new Pool({
   user: process.env.DB_USER,
