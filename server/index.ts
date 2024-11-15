@@ -25,14 +25,6 @@ app.use("/user", userRoutes);
 app.use("/world", worldRoutes);
 app.use("/randomizer", randomizerRoutes);
 
-// Serve the static files from the React app
-app.use(express.static(path.join(__dirname, '../client/dist')));
-
-// Handle requests by serving index.html for all routes
-app.get('*', (req, res) => {
-    res.sendFile(path.join(__dirname, '../client/dist', 'index.html'));
-});
-
 app.get('/random_race/', async (req, res) => {
   try {
     const query = 'select * from races;';
@@ -90,6 +82,14 @@ app.get("/free-endpoint", (request, response) => {
 // authentication endpoint
 app.get("/auth", auth, (request, response) => {
   response.json({ message: "You are authorized to access me" });
+});
+
+// Serve the static files from the React app
+app.use(express.static(path.join(__dirname, '../client/dist')));
+
+// Handle requests by serving index.html for all routes
+app.get('*', (req, res) => {
+    res.sendFile(path.join(__dirname, '../client/dist', 'index.html'));
 });
 
 app.listen(PORT, () => {
