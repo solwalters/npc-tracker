@@ -13,6 +13,7 @@ For local db dump, run the following:
 ## Dev Roadmap: ##
 - ~~get repo onto github,~~ get code reviews done
 - figure out some sort of cache (redis?) for local storage to reduce db chatter on random attribute generation
+- change auth from cookie based to state based
 - CRUD factions to world
 - CRUD locations to world
 - populate data for better randomness
@@ -28,6 +29,9 @@ For local db dump, run the following:
 
 ## Known Bugs: ##
 - deleting the bottom/second world in the world select removes the wrong world from the list (refresh fixes)
+- on mobile, when personality quirk is long, the text goes off the screen - probably can fix by adding overflow: scroll on the root div
+- on mobile, navbar buttons and first name last name are colliding
+
 
 
 ## todo: ##
@@ -36,7 +40,20 @@ investigate different tools:
 - Yup
 - axios
 
-- ant.design for UI or MUI (material Ui)
+- use typescript in Yup Schema
+- split out WorldSelect & summary components
+- look into using yup instead of regex on the parseTemplate function
+- how to share types across FE/BE
+- move the app out of the header tags
+- investigate the Routes - should it be a navigate instead of undefined?
+- change navbar.js to NavBar.tsx as it returns a component
+- on navbar, can consolodate check to a single instance and render all 3 buttons at once
+- in summary, RollAllValues should not be R but r because it is not a component, it is a local function
+- in summary, ReplaceTag (same issue) should also use arrow functions
+- look into a toolkit like lodash for the gender array
+- in summary, extract components into their own files
+- update tsconfig.json to add server path to the 'include' section
+
 
 
 ## local server troubleshooting: ##
