@@ -19,8 +19,6 @@ import '@fontsource/roboto/500.css';
 import '@fontsource/roboto/700.css';
 
 
-const backendRoot = "http://localhost:3000"
-
 function App() {
   const [data, setData] = React.useState(null);
   const { user, authenticated } = useUser();

@@ -2,7 +2,7 @@ import axios from "axios";
 import Cookies from 'js-cookie';
 import { getTokenFromLocalStorage } from '../lib/common';
 
-const apiUrl = "http://localhost:3000/";
+const apiUrl = process.env.REACT_APP_API_PATH;
 
 interface User {
   email: string;

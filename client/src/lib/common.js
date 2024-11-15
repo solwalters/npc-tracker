@@ -10,7 +10,7 @@ export function getUserId() {
   return Cookies.get('userId');
 }
 
-const backendRoot = "http://localhost:3000/"
+const backendRoot = process.env.REACT_APP_API_PATH + "/"
 
 export async function getAuthenticatedUser() {
   const defaultReturnObject = { authenticated: false, user: null };
